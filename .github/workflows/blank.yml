@@ -36,7 +36,7 @@ jobs:
       - name: Run a multi-line script lab 1
         run: |
           echo Add other actions to build,
-          echo "aa1" > aa1.txt
+          echo "aa1" > aa1.txt,
           dir,
           echo test, and deploy your project.
           
