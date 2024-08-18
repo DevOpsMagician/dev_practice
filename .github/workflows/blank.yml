@@ -37,6 +37,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo "aa1" > aa1.txt,
-          dir,
           echo test, and deploy your project.
           
